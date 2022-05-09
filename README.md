@@ -22,8 +22,8 @@
 
 <div>
 <a href="https://github.com/juam-sv">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juam-sv&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juam-sv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juam-sv&layout=compact&langs_count=7&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juam-sv&show_icons=true&include_all_commits=true&count_private=false&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide=stars,issues"/>
 </div>
 
 ## 🔧 Technologies & Tools
