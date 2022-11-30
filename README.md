@@ -4,15 +4,15 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=juam-sv&label=Profile%20views&color=0e75b6&style=flat" alt="juam-sv" /> </p> -->
 
-- 🔭 I’m currently working on [Sou Junior](https://github.com/SouJunior/devops) as volunteer and at [Sea Telecom](https://www.seatelecom.com.br/) at Infraestruture
+- 🔭 I’m currently working on [DNX Brasil](https://dnxbrasil.com/) as Devops Analyst and at [Sou Junior](https://github.com/SouJunior/devops) as DevOps volunteer
 
-- 🌱 I’m currently learning **Azure, OCI and Jenkins**
+- 🌱 I’m currently learning **AWS and Terraform**
 
 - 🤝 And I'm collaborating on [Maas and Juju](https://github.com/madson7/maas_lab)
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/juam-sv/portifolio](https://github.com/juam-sv/portifolio) (On development) -->
 
-<!-- - 📝 I regularly write articles on [ondevelopment](ondevelopment) -->
+- 📝 I write articles on [my blog](https://juamsv.netlify.app/)
 
 - 💬 Ask me about **Linux, Docker, AWS**
 
