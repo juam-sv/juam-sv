@@ -1,26 +1,14 @@
-<h1 align="center"> ~Yoyo, I'm Juam Sousa! <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="50" style="border-radius:30%" align="center"></h1>
+<h1 align="center"> ~ Juam Sousa! <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="50" style="border-radius:30%" align="center"></h1>
 
-<h3 align="center">A passionate DevOps/SRE from Brazil</h3>
+<h3 align="center"> DevOps Engineer | AWS Solutions Architect Professional </h3>
+<h4 align="center"> DevOps Engineer with more than 4 years of experience with solid knowledge in AWS, Linux, Kubernetes, Terraform, pipelines, etc. </h4>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=juam-sv&label=Profile%20views&color=0e75b6&style=flat" alt="juam-sv" /> </p> -->
 
-- 🔭 I’m currently working on [DNX Brasil](https://dnxbrasil.com/) as Devops Analyst and at [Sou Junior](https://github.com/SouJunior/devops) as DevOps volunteer
-
-- 🌱 I’m currently learning **AWS and Terraform**
-
-- 🤝 And I'm collaborating on [Maas and Juju](https://github.com/madson7/maas_lab)
-
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/juam-sv/portifolio](https://github.com/juam-sv/portifolio) (On development) -->
-
-- 📝 I write articles on [my blog](https://juamsv.netlify.app/)
-
-- 💬 Ask me about **Linux, Docker, AWS**
-
-- 📫 How to reach me **juam13pb@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/juam-sv/](https://www.linkedin.com/in/juam-sv/)
-
-- ⚡ Fun fact **I love manhwas and dark souls franchise**
+- Linkedin: [https://www.linkedin.com/in/juam-sv/](https://www.linkedin.com/in/juam-sv/)
+- Badges: [Credly](https://www.credly.com/users/juamsv/badges)
+- I write articles on [my blog](https://juamsv.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,7 +21,7 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juam-sv&show_icons=true&locale=en&layout=compact" alt="juam-sv" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juam-sv&show_icons=true&locale=en&v&show_icons=true&include_all_commits=true&count_private=false&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" alt="juam-sv" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juam-sv&show_icons=true&locale=en&v&show_icons=true&include_all_commits=true&count_private=false&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" alt="juam-sv" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juam-sv&" alt="juam-sv" /></p> -->
 
